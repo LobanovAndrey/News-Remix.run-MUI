@@ -7,7 +7,7 @@ Install it and run:
 
 ```
 npm install
-npm build
+npm run build
 
 For dev start - localhost:3001:
 npm run dev
