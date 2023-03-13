@@ -17,10 +17,10 @@ npm run start
 ```
 
 ## tech stack:
-React
-Typescript
-Remix run
-Mui
+- React
+- Typescript
+- Remix run
+- Mui
 
 
 ## The idea behind the example
